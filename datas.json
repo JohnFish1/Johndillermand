@@ -1,5 +1,4 @@
-
-    {
+{
   "contact": "John dillermand",
   "templates": [
     {
@@ -7,8 +6,8 @@
       "sources": [
         "https://imgur.com/a/rb6FsQz"
       ],
-      "x": 249,
-      "y": 194
+      "x": 194,
+      "y": 249
     }
   ],
   "whitelist": [],
