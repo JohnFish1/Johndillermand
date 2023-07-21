@@ -1,4 +1,4 @@
-# Nordic Place
+
 
 ### How to install it?
 
@@ -9,9 +9,3 @@
 - Click the `Always Load` button, and it should be good.
 
 
-### How to contribute?
-
-Create a Github account.
-
-If you are a moderator from a Nordic discord: Add me on Discord (@meblikea), and I'll set you as Collaborator, and you can push updates, without verifications.
-<br>Else, create a Fork of this repository (you can do that with clicking the `Fork` button, create a new fork, do your modifications, and create a pull request (with telling what you did)).
